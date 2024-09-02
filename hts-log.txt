@@ -1,0 +1,87 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 29 Aug 2024 13:40:40 at https://crowdytheme.com/wp/arolax/it-consultancy-agency/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://crowdytheme.com/wp/arolax/it-consultancy-agency/ -O1 "D:\new site\testing" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:41:20	Error: 	"Method Not Allowed" (405) at link https://crowdytheme.com/wp/arolax/it-consultancy-agency/xmlrpc.php (from https://crowdytheme.com/wp/arolax/it-consultancy-agency/)
+13:42:59	Error: 	"Not Found" (404) at link https://crowdytheme.com/wp/arolax/it-consultancy-agency/wp-content/themes/arolax/assets/imgs/writer/go-top.png (from https://crowdytheme.com/wp/arolax/it-consultancy-agency/wp-content/themes/arolax/assets/css/master.css?ver=2)
+13:42:59	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=2434
+13:42:59	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=2434 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/about-style-01/
+13:42:59	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=3795
+13:42:59	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=3795 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/about-style-02/
+13:42:59	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=256
+13:42:59	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=256 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/team-style-01/
+13:42:59	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=1806
+13:42:59	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=1806 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/team-style-02/
+13:42:59	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=2519
+13:42:59	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=2519 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/team-details/
+13:43:00	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=5128
+13:43:00	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=5128 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/our-project/
+13:43:10	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=3805
+13:43:10	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=3805 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/project-details/
+13:43:11	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=8
+13:43:11	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=8 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/service-style-1/
+13:43:11	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=674
+13:43:11	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=674 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/service-style-2/
+13:43:11	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=1424
+13:43:11	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=1424 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/service-style-3/
+13:43:11	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=1895
+13:43:11	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=1895 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/service-style-4/
+13:43:11	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=2204
+13:43:11	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=2204 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/service-style-5/
+13:43:11	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=3068
+13:43:11	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=3068 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/service-style-6/
+13:43:11	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=5371
+13:43:11	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=5371 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/service-details/
+13:43:11	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=7081
+13:43:11	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=7081 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/pricing-style-01/
+13:43:11	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=7429
+13:43:11	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=7429 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/pricing-style-02/
+13:43:22	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=2202
+13:43:22	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=2202 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/how-to-create-your-purpose-filled-career-comfortable/
+13:43:23	Error: 	"Not Found" (404) at link https://crowdytheme.com/wp/binox/inner-pages/wp-content/uploads/sites/2/2024/04/quote-1.png (from https://crowdytheme.com/wp/arolax/it-consultancy-agency/how-to-create-your-purpose-filled-career-comfortable/)
+13:43:27	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=3404
+13:43:27	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=3404 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/binox-faq/
+13:43:27	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=6244
+13:43:27	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=6244 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/contact/
+13:43:27	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=11706
+13:43:27	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=11706 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/wcf-template/404-page-template/
+13:43:27	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=2079
+13:43:27	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=2079 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/how-to-create-your-purpose-filled-career-comfortable-clothes-3/
+13:43:27	Error: 	"Not Found" (404) at link https://crowdytheme.com/wp/arolax/it-consultancy-agency/.part (from https://crowdytheme.com/wp/arolax/it-consultancy-agency/wp-content/plugins/wcf-addons-pro/assets/js/wcf-addons-pro.js?ver=6.6.1)
+13:43:27	Error: 	"Not Found" (404) at link https://crowdytheme.com/wp/arolax/it-consultancy-agency/-negative.svg (from https://crowdytheme.com/wp/arolax/it-consultancy-agency/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.23.4)
+13:43:27	Error: 	"Not Found" (404) at link https://crowdytheme.com/wp/arolax/it-consultancy-agency/OPR/ (from https://crowdytheme.com/wp/arolax/it-consultancy-agency/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.23.4)
+13:43:27	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=12373
+13:43:27	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=12373 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/Project/graphic-design/
+13:43:27	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=5120
+13:43:27	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=5120 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/Project/market-research/
+13:43:27	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=5115
+13:43:27	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=5115 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/Project/market-strategy/
+13:43:27	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=5110
+13:43:27	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=5110 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/Project/employment/
+13:43:27	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=5084
+13:43:27	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=5084 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/Project/leadership/
+13:43:27	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=5082
+13:43:27	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=5082 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/Project/strategy/
+13:43:29	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=2073
+13:43:29	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=2073 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/sitting-with-your-basic-goodness-top-signs-that-time-2/
+13:43:29	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=2067
+13:43:29	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=2067 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/understanding-behavioral-biases-and-making-rational-way/
+13:43:29	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=2055
+13:43:29	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=2055 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/sitting-with-your-basic-goodness-top-signs-that-time/
+13:43:29	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=2052
+13:43:29	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=2052 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/how-to-create-your-purpose-filled-career-comfortable-clothes-2/
+13:43:31	Error: 	"Not Found" (404) at link https://crowdytheme.com/wp/arolax/it-consultancy-agency/tag/business/page/2/ (from https://crowdytheme.com/wp/arolax/it-consultancy-agency/tag/business/)
+13:43:31	Error: 	"Not Found" (404) at link https://crowdytheme.com/wp/arolax/it-consultancy-agency/tag/design/page/2/ (from https://crowdytheme.com/wp/arolax/it-consultancy-agency/tag/design/)
+13:43:31	Error: 	"Not Found" (404) at link https://crowdytheme.com/wp/arolax/it-consultancy-agency/tag/develop/page/2/ (from https://crowdytheme.com/wp/arolax/it-consultancy-agency/tag/develop/)
+13:43:31	Error: 	"Not Found" (404) at link https://crowdytheme.com/wp/arolax/it-consultancy-agency/tag/software/page/2/ (from https://crowdytheme.com/wp/arolax/it-consultancy-agency/tag/software/)
+13:43:31	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=5077
+13:43:31	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=5077 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/Project/museum/
+13:43:31	Warning: 	Moved Permanently for https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=2049
+13:43:31	Warning: 	File has moved from https://crowdytheme.com/wp/arolax/it-consultancy-agency/?p=2049 to https://crowdytheme.com/wp/arolax/it-consultancy-agency/how-to-create-your-purpose-filled-career-comfortable-clothes/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 51 seconds : 408 links scanned, 364 files written (18459390 bytes overall) [5450539 bytes received at 31874 bytes/sec], 17521521 bytes transferred using HTTP compression in 287 files, ratio 17%, 25.5 requests per connection
+(10 errors, 66 warnings, 0 messages)
